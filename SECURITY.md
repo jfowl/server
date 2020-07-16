@@ -7,7 +7,7 @@ ressources to maintain multiple versions.
 
 ## Reporting a Vulnerability
 
-If you find a vulnerability for [this repository](https://github.com/codimd/server), please report it to 
+If you find a vulnerability for [this repository](https://github.com/hedgedoc/server), please report it to 
 [@SISheogorath](https://github.com/SISheogorath).
 
 Please report your findings OpenPGP encrypted. If you are not aware of
