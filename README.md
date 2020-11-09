@@ -1,3 +1,5 @@
+![HedgeDoc Logo](https://raw.githubusercontent.com/codimd/hedgedoc-logo/main/LOGOTYPE/SVG/HedgeDoc-Logo%204b.svg)
+
 # HedgeDoc
 
 [![#HedgeDoc on matrix.org][matrix.org-image]][matrix.org-url]
