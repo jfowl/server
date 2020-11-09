@@ -83,16 +83,16 @@ which lets you use HedgeDoc from the comfort of your command line.
 
 Licensed under AGPLv3. For our list of contributors, see [AUTHORS](AUTHORS).
 
-The license does not include the hedgedoc logo, whose terms of usage can be found in the [github repository](https://github.com/codimd/hedgedoc-logo).
+The license does not include the hedgedoc logo, whose terms of usage can be found in the [github repository](https://github.com/hedgedoc/hedgedoc-logo).
 
 [matrix.org-image]: https://img.shields.io/matrix/hedgedoc:matrix.org?logo=matrix&server_fqdn=matrix.org
 [matrix.org-url]: https://matrix.to/#/#hedgedoc:matrix.org
 [travis-image]: https://travis-ci.org/codimd/server.svg?branch=master
 [travis-url]: https://travis-ci.org/codimd/server
 [github-version-badge]: https://img.shields.io/github/release/codimd/server.svg
-[github-release-page]: https://github.com/codimd/server/releases
-[github-release-feed]: https://github.com/codimd/server/releases.atom
-[github-issue-tracker]: https://github.com/codimd/server/issues/
+[github-release-page]: https://github.com/hedgedoc/server/releases
+[github-release-feed]: https://github.com/hedgedoc/server/releases.atom
+[github-issue-tracker]: https://github.com/hedgedoc/server/issues/
 [poeditor-image]: https://img.shields.io/badge/POEditor-translate-blue.svg
 [poeditor-url]: https://poeditor.com/join/project/1OpGjF2Jir
 [hedgedoc-demo]: https://demo.hedgedoc.org
