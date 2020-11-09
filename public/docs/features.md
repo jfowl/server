@@ -6,7 +6,7 @@
 This means that you can write notes with other people on your **desktop**, **tablet** or even on the **phone**.
 You can sign-in via multiple auth providers like **Facebook**, **Twitter**, **GitHub** and many more on the [*homepage*](/).
 
-If you experience any *issues*, feel free to report it on [**GitHub**](https://github.com/codimd/server/issues).
+If you experience any *issues*, feel free to report it on [**GitHub**](https://github.com/hedgedoc/server/issues).
 Or meet us on [**Matrix.org**](https://matrix.to/#/#hedgedoc:matrix.org) for dev-talk and interactive help.
 **Thank you very much!**
 
@@ -73,7 +73,7 @@ There are four possible options:
 Notes can be embedded as follows:
 
 ```xml
-<iframe width="100%" height="500" src="https://demo.hedgedoc.io/features" frameborder="0"></iframe>
+<iframe width="100%" height="500" src="https://demo.hedgedoc.org/features" frameborder="0"></iframe>
 ```
 
 ### [Slide Mode](./slide-example)
