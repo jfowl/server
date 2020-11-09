@@ -49,7 +49,7 @@ configuration settings `ETHERPAD_SERVER` and `CODIMD_SERVER`.
 # Author: Daan Sprenkels <hello@dsprenkels.com>
 
 # This script uses the hedgedoc command line script[1] to import a list of pads from
-# [1]: https://github.com/codimd/cli/blob/master/bin/codimd
+# [1]: https://github.com/hedgedoc/cli/blob/master/bin/codimd
 
 # The base url to where etherpad is hosted
 ETHERPAD_SERVER="https://etherpad.example.com"
@@ -123,6 +123,6 @@ I put this file into my `etherpad.example.com` nginx config, such that all the u
 redirected accordingly.
 
 [etherpad 1.7.0]: https://github.com/ether/etherpad-lite/tree/1.7.0
-[codimd 1.2.1]: https://github.com/codimd/server/tree/1.2.1
-[hedgedoc-cli]: https://github.com/codimd/cli/blob/master/bin/codimd
+[codimd 1.2.1]: https://github.com/hedgedoc/server/tree/1.2.1
+[hedgedoc-cli]: https://github.com/hedgedoc/cli/blob/master/bin/hedgedoc
 [howtolistallpads]: https://github.com/ether/etherpad-lite/wiki/How-to-list-all-pads/49701ecdcbe07aea7ad27ffa23aed0d99c2e17db
